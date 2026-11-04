@@ -1,3 +1,5 @@
+[![Language](https://img.shields.io/github/languages/top/masikh/obs-websocket)](https://github.com/masikh/obs-websocket) [![Last commit](https://img.shields.io/github/last-commit/masikh/obs-websocket)](https://github.com/masikh/obs-websocket/commits) [![Repo size](https://img.shields.io/github/repo-size/masikh/obs-websocket)](https://github.com/masikh/obs-websocket) [![Stars](https://img.shields.io/github/stars/masikh/obs-websocket?style=flat)](https://github.com/masikh/obs-websocket/stargazers)
+
 obs-websocket
 ==============
 Remote control of OBS Studio made easy.
